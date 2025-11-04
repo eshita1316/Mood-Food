@@ -1,4 +1,4 @@
-# 🍴 Food Recommendation Based on Mood
+#  Food Recommendation Based on Mood
 
 ###  Developed by:
 **Eshita Reddy** & **Sukriti Singh**  
